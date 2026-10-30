@@ -1,3 +1,24 @@
+**Лабораторная работа номер 2 по компьютерной графике**
+**Сикарев Артём Сергеевич М80-305БВ-24**
+**Вариант 2**
+# Выполненная работа
+1. Реализация движения камеры
+2. Реализация системы освещения (Ambient light, Directional light, Point lights, Spot Lights)
+3. Настройка параметров материала (albedo, shininess)
+# Установка нужных компонент
+1. Установить Visual Studio
+2. Установить Cmake
+3. Установить Vulkan SDK
+4. Нужен Git
+# Сборка проекта
+1. Через Пуск найти «Developer Command Prompt for VS»
+2. Перейти в папку проекта
+   cd C:\путь\к\vulkan-starter-app
+3. Сконфигурировать проект
+4. Собрать
+   cmake --build build-debug --config Debug
+6. Запустить
+   build-debug\Debug\vulkan-starter-app.exe
 # 🌋 Vulkan Starter App
 
 ## Getting started
